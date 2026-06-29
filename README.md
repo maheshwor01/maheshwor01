@@ -1,16 +1,25 @@
-## Hi there 👋
+Hi, I'm Maheshwor Mandal 👋
 
-<!--
-**maheshwor01/maheshwor01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 BSc IT Student | Web Developer | Python Learner
 
-Here are some ideas to get you started:
+I enjoy building modern websites and learning new technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Tech Stack
+
+- HTML
+- CSS3
+- JavaScript
+- Python
+- Node.js
+- SQL
+- Git & GitHub
+
+📂 Featured Projects
+
+🌐 Portfolio Website
+🔗 https://maheshwor01.github.io/My-Portfolio/
+
+📫 Connect with Me
+
+ LinkedIn: https://linkedin.com/in/your-link
+⭐ Thanks for visiting my profile!
